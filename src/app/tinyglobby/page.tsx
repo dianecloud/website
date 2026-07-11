@@ -166,8 +166,6 @@ export default function Page() {
           Add it to the list
         </Link>
       </small>
-    </medium>
-    </larege>
     </main>
   );
 }
